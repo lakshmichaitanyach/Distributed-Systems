@@ -1,4 +1,4 @@
-# Project -1 Implementation of 2PC protocol with BTM nad RM failures
+# Project -1 Implementation of 2PC protocol with BTM and RM failures
 
 - Implemented Two Phase Commit, 2PC, protocol with backup transaction manager, BTM in Pluscal.
 - Tested the model by translating into TLA+ model on Temporal (Termination and Completed) and Invariant (Consistency) properties.
